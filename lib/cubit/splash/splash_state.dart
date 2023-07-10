@@ -1,0 +1,4 @@
+enum SplashState {
+  splashPage,
+  homePage,
+}
