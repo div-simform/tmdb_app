@@ -1,16 +1,35 @@
-# tmdb_app
 
-A new Flutter project.
+# Project Title
 
-## Getting Started
+TMDB (The Movie Database) Application which is for movies review
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## API Reference
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+```http
+ https://developer.themoviedb.org/docs
+```
+
+
+#### State Management
+
+```
+  BLoC
+```
+#### API Package
+```
+  Retrofit
+```
+#### Implemented by
+ <img src="https://github.com/div-simform/tmdb_app/assets/125264375/e2e48366-7024-4c88-b3ae-8b8878654e3e" width="40" height="40" />
+ <img src="https://github.com/div-simform/tmdb_app/assets/125264375/adb0a76a-4a36-4b93-ab20-7f88f483c6e9" width="120" height="50" />
+ 
+
+
+## Screenshots
+
+<img src="https://github.com/div-simform/tmdb_app/assets/125264375/438e4e9e-ea44-44fe-9851-faf32bb5b9e9" width="250" height="450" />
+<img src="https://github.com/div-simform/tmdb_app/assets/125264375/3aa9ea87-9adf-4cbe-b6bb-1f2c6788f423" width="250" height="450" />
+<img src="https://github.com/div-simform/tmdb_app/assets/125264375/585cec0f-7479-4d7a-ac47-a91fe3ed05ca3" width="250" height="450" />
