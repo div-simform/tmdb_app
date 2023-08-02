@@ -1,7 +1,7 @@
 
-# Project Title
+# TMDB (The Movie Database) Application
 
-TMDB (The Movie Database) Application which is for movies review
+The TMDB application offers a user-friendly interface that allows users to easily search and browse through an extensive database of films and television shows. It provides personalized recommendations based on user preferences and viewing history. Users can create and manage watchlists, track their favorite movies and TV shows, and discover new content to enjoy.
 
 
 
